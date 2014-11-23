@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CyanogenMod/android_device_htc_m8" path="device/htc/m8" remote="github" />
+  <project name="rc420head-L/android_device_htc_m8" path="device/htc/m8" remote="github" revision="c5" />
   <project name="CyanogenMod/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
   <project name="rc420head-L/android_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="c5" />
   <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
 </manifest>
