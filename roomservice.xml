@@ -18,4 +18,8 @@
   <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="cm-12.0" />
+  <project name="rc420head-L/android_device_htc_ville" path="device/htc/ville" remote="github" revision="c5" />
+  <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_device_htc_s4-common" path="device/htc/s4-common" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-12.0" />
 </manifest>
