@@ -29,7 +29,7 @@
   <project name="CyanogenMod/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="cm-12.0" />
-  <project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-11.0" />
 <!-- the muppets --> 
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
