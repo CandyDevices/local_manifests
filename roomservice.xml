@@ -24,7 +24,6 @@
   <project name="CandyDevices/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="c5" />
   <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-12.0" />
-  <project name="CandyDevices/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="c5" />
 <!-- oneplus/oppo devices -->
   <project name="CandyDevices/device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="c5" />
   <project name="CyanogenMod/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="cm-12.0" />
