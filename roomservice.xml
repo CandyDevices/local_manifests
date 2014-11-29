@@ -19,7 +19,10 @@
   <project name="CyanogenMod/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="cm-12.0" />
 <!-- lg devices -->  
   <project name="CandyDevices/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="c5" />
+  <project name="CandyDevices/device_lge_d850" path="device/lge/d850" remote="github" revision="c5" />
+  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.0" />
 <!-- motorola devices -->
   <project name="CandyDevices/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="c5" />
   <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-12.0" />
@@ -36,7 +39,7 @@
   <project name="CyanogenMod/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.0" />
 <!-- the muppets --> 
-  <project name="CanduDevices/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="c5" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="github" revision="cm-12.0" />
