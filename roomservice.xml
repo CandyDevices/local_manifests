@@ -38,6 +38,8 @@
   <project name="CyanogenMod/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="cm-12.0" />
+    <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.0" />
 <!-- the muppets --> 
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
