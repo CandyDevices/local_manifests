@@ -43,8 +43,8 @@
   <project name="CandyDevices/device_sony_sirius" path="device/sony/sirius" remote="github" revision="c5" />
   <project name="CyanogenMod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-12.0" />
 <!-- the muppets --> 
-  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
+  <project name="CandyDevices/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="c5" />
+  <project name="CaptainThrowback/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0" />
