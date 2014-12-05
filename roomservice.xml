@@ -33,18 +33,9 @@
   <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-11.0" />
-<!-- sony devices -->
-  <project name="CandyDevices/device_sony_honami" path="device/sony/honami" remote="github" revision="c5" />
-  <project name="CyanogenMod/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="cm-12.0" />
-  <project name="CyanogenMod/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-12.0" />
-  <project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.0" />
-  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="cm-12.0" />
-  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.0" />
-  <project name="CandyDevices/device_sony_sirius" path="device/sony/sirius" remote="github" revision="c5" />
-  <project name="CyanogenMod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-12.0" />
 <!-- the muppets --> 
   <project name="CandyDevices/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="c5" />
-  <project name="CaptainThrowback/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
+  <project name="TeamEOS/vendor_htc" path="vendor/htc" remote="github" revision="lp5.0" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0" />
@@ -54,5 +45,4 @@
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.0" />
 </manifest>
