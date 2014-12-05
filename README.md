@@ -1,5 +1,7 @@
 rc420head_local_manifest
 ========================
+prebuilts/misc/linux-x86/ccache/ccache -M 100G
 
-brunch m8 userdebug -j8 && brunch hammerhead userdebug -j8 && brunch grouper userdebug -j8 && brunch ville userdebug -j8 && brunch evita userdebug -j8 && brunch m7 userdebug -j8 && brunch m7spr userdebug -j8 && brunch m7vzw userdebug -j8 && brunch m4 userdebug -j8 && brunch falcon userdebug -j8 && brunch bacon userdebug -j8 && brunch honami userdebug -j8 && brunch sirius userdebug -j8
+make clobber && brunch m8 userdebug && brunch m4 userdebug && brunch falcon userdebug && brunch ville userdebug && mv ~/candy5/out/target/product/ville  ~/candy5/out/target/product/ville_215 && cd ~/candy5/device/htc/ville && git checkout c5-216 && cd ~/candy5 && brunch ville && brunch evita userdebug && brunch grouper userdebug && brunch m7 userdebug && brunch m7spr userdebug 
+
 
