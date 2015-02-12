@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- lg devices -->  
+  <project name="device_lge_hammerhead" path="device/lge/hammerhead" remote="cd" revision="c5" />
+  <project name="matthew0776/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="candy" />
+</manifest>
