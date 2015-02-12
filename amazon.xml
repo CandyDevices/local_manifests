@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- amazon devices -->
+  <project name="device_amazon_otterx" path="device/amazon/otterx" remote="cd" revision="c5" />
+  <project name="device_amazon_otter-common" path="device/amazon/otter-common" remote="cd" revision="c5" />
+  <project name="KFire-Android/android_device_amazon_omap4-common" path="device/amazon/omap4-common" remote="github" revision="cm-12.0" />
+  <project name="cannondalev2000/kernel_omap_otter-common" path="kernel/amazon/otter-common" remote="github" revision="c5" />
+</manifest>
