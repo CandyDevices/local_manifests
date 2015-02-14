@@ -2,13 +2,14 @@
 <manifest>
 <!-- lg devices -->  
   <project name="device_lge_hammerhead" path="device/lge/hammerhead" remote="cd" revision="c5" />
-  <project name="matthew0776/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="candy" />
-#G3
+  <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c5" />
+  <project name="device_lge_d851" path="device/lge/d851" remote="cd" revision="c5" />
+  <project name="device_lge_d852" path="device/lge/d852" remote="cd" revision="c5" />
+  <project name="device_lge_ls990" path="device/lge/ls990" remote="cd" revision="c5" />
+  <project name="android_device_lge_d855" path="device/lge/d855" remote="cd" revision="c5" />
+  <project name="device_lge_mako" path="device/lge/mako" remote="cd" revision="c5" />
+<!--lg kernels -->  
   <project name="cannondalev2000/kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="c5" />
-  <project name="CandyDevices/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="c5" />
-#device
-  <project name="CandyDevices/device_lge_d851" path="device/lge/d851" remote="github" revision="c5" />
-  <project name="CandyDevices/device_lge_d852" path="device/lge/d852" remote="github" revision="c5" />
-  <project name="CandyDevices/device_lge_ls990" path="device/lge/ls990" remote="github" revision="c5" />
-  <project name="CandyDevices/android_device_lge_d855" path="device/lge/d855" remote="github" revision="c5" />
+  <project name="matthew0776/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="candy" />
+  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.0"
 </manifest>
