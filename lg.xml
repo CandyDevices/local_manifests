@@ -11,5 +11,5 @@
 <!--lg kernels -->  
   <project name="cannondalev2000/kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="c5" />
   <project name="matthew0776/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="candy" />
-  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.0"
+  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.0" />
 </manifest>
