@@ -13,4 +13,6 @@
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_amazon" path="vendor/amazon" remote="github" revision="cm-12.0" />
+  <project name="themuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.0" />
+  <project name="RaymanFX/vendor_samsung_lt03wifi" path="vendor/samsung/lt03wifi" remote="github" revision="cm-12.0" />
 </manifest>
