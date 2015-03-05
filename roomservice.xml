@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CandyDevices/android_device_lge_d850" path="device/lge/d850" remote="github" />
+</manifest>
