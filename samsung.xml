@@ -8,11 +8,12 @@
   <project name="cyanogenmod/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="cm-12.0" />
   <project name="rc420head-L/device_samsung_lt03wifi" path="device/samsung/lt03wifi" remote="github" revision="cm-12.0" /> 
   
-  <!--p3100/p5100-->
+  <!--p31xx/p51xx-->
   <project name="cyanogenmod/android_device_samsung_omap4-common" path="device/samsung/omap4-common" remote="github" revision="cm-12.0" />
   <project name="cyanogenmod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-12.0" />
   <project name="device_samsung_p3100" path="device/samsung/p3100" remote="cd" revision="c5" />
   <project name="device_samsung_p5100" path="device/samsung/p5100" remote="cd" revision="c5" />
+  <project name="device_samsung_p3110" path="device/samsung/p3110" remote="cd" revision="c5" />
   
   <!--common-->
   <project name="cyanogenmod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.0" />
