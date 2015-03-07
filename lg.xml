@@ -3,6 +3,7 @@
 <!-- lg devices -->  
   <project name="device_lge_hammerhead" path="device/lge/hammerhead" remote="cd" revision="c5" />
   <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c5-z" />
+  <project name="android_device_lge_d850" path="device/lge/d850" remote="cd" revision="c5" />
   <project name="device_lge_d851" path="device/lge/d851" remote="cd" revision="c5" />
   <project name="device_lge_d852" path="device/lge/d852" remote="cd" revision="c5" />
   <project name="device_lge_ls990" path="device/lge/ls990" remote="cd" revision="c5" />
