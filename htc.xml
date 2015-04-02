@@ -4,7 +4,7 @@
   <project name="device_htc_m7" path="device/htc/m7" remote="cd" revision="c5" />
   <project name="device_htc_m7spr" path="device/htc/m7spr" remote="cd" revision="c5" />
   <project name="device_htc_m7vzw" path="device/htc/m7vzw" remote="cd" revision="c5" />
-  <project name="device_htc_m8" path="device/htc/m8" remote="cd" revision="c5-z" />
+  <project name="device_htc_m8" path="device/htc/m8" remote="cd" revision="c5.1" />
   <project name="device_htc_ville" path="device/htc/ville" remote="cd" revision="c5" />
   <project name="device_htc_m4" path="device/htc/m4" remote="cd" revision="c5" />
   <project name="device_htc_evita" path="device/htc/evita" remote="cd" revision="c5" />
