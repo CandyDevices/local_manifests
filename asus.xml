@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- asus devices --> 
-  <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5" />
-  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-12.0" />
+  <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5.1" />
+  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-12.1" />
 </manifest>

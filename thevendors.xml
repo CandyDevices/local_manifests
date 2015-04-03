@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- the muppets --> 
-  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="cm-12.0" />
-  <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="cd" revision="c5" /> 
-  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_amazon" path="vendor/amazon" remote="github" revision="cm-12.0" />
-  <project name="themuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.0" />
-  <project name="RaymanFX/vendor_samsung_lt03wifi" path="vendor/samsung/lt03wifi" remote="github" revision="cm-12.0" />
+  <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
+  <project name="proprietary_vendor_htc" path="vendor/htc" remote="tm"  />
+  <project name="proprietary_vendor_asus" path="vendor/asus" remote="tm"  />
+  <project name="proprietary_vendor_elan" path="vendor/elan" remote="tm"  />
+  <project name="proprietary_vendor_broadcom" path="vendor/broadcom" remote="tm"  />
+  <project name="proprietary_vendor_widevine" path="vendor/widevine" remote="tm"  />
+  <project name="proprietary_vendor_invensense" path="vendor/invensense" remote="tm"  />
+  <project name="proprietary_vendor_nvidia" path="vendor/nvidia" remote="tm"  />
+  <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" /> 
+  <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm"  />
+  <project name="proprietary_vendor_oppo" path="vendor/oppo" remote="tm"  />
+  <project name="proprietary_vendor_amazon" path="vendor/amazon" remote="tm"  />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="tm"  />
 </manifest>
