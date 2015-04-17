@@ -26,7 +26,7 @@
   <project name="device_samsung_i9300" path="device/samsung/i9300" remote="cd" revision="c5" />
   
   <!--JFLTETMO T-Mobile Samsung Galaxy S4-->
-  <project name="CyanogenMod/android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="github" revision="cm-12.1" />
+  <project name="device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="cd" revision="c5.1" />
   <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="cm-12.1" />
    
