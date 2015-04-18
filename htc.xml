@@ -14,4 +14,7 @@
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-12.1" />
   <project name="kernel_htc_msm8974" path="kernel/htc/msm8974" remote="cd" revision="c5.1-z" />
   <project name="cuzz1369/android_device_htc_flounder" path="device/htc/flounder" remote="github" revision="c5" />
+  <project name="device_htc_m9gsm" path="device/htc/m9gsm" remote="cd" revision="c5.1" />
+  <project name="Hima-Dev/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1" />
+  <project name="Hima-Dev/android_device_htc_m9-common" path="device/htc/m9-common" remote="github" revision="cm-12.1" />
 </manifest>
