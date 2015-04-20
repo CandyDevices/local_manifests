@@ -2,7 +2,7 @@
 <manifest>
 <!-- the muppets --> 
   <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
-  <project name="proprietary_vendor_htc" path="vendor/htc" remote="cd" />
+  <project name="proprietary_vendor_htc" path="vendor/htc" remote="cd" revision="c5.1" />
   <project name="proprietary_vendor_asus" path="vendor/asus" remote="tm"  />
   <project name="proprietary_vendor_elan" path="vendor/elan" remote="tm"  />
   <project name="proprietary_vendor_broadcom" path="vendor/broadcom" remote="tm"  />
