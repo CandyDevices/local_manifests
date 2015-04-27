@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--p31xx/p51xx-->
-  <project name="cyanogenmod/android_device_samsung_omap4-common" path="device/samsung/omap4-common" remote="github" revision="cm-12.0" />
-  <project name="cyanogenmod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-12.0" />
-  <project name="device_samsung_p3100" path="device/samsung/p3100" remote="cd" revision="c5" />
-  <project name="device_samsung_p5100" path="device/samsung/p5100" remote="cd" revision="c5" />
-  <project name="device_samsung_p3110" path="device/samsung/p3110" remote="cd" revision="c5" />
-  
   <!--common-->
   <project name="cyanogenmod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
   <project name="cyanogenmod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
@@ -15,5 +8,4 @@
   <project name="cyanogenmod/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-12.0" />
   <project name="cyanogenmod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-12.0" />
   <project name="device_samsung_i9300" path="device/samsung/i9300" remote="cd" revision="c5" />
-  
 </manifest>
