@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- the muppets --> 
-  <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
-  <project name="proprietary_vendor_htc" path="vendor/htc" remote="cd" revision="c5.1" />
+  <project name="proprietary_vendor_htc" path="vendor/htc" remote="tm" />
   <project name="proprietary_vendor_asus" path="vendor/asus" remote="tm"  />
   <project name="proprietary_vendor_elan" path="vendor/elan" remote="tm"  />
   <project name="proprietary_vendor_broadcom" path="vendor/broadcom" remote="tm"  />
@@ -10,8 +9,4 @@
   <project name="proprietary_vendor_invensense" path="vendor/invensense" remote="tm"  />
   <project name="proprietary_vendor_nvidia" path="vendor/nvidia" remote="tm"  />
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" /> 
-  <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm"  />
-  <project name="proprietary_vendor_oppo" path="vendor/oppo" remote="tm"  />
-  <project name="proprietary_vendor_amazon" path="vendor/amazon" remote="tm"  />
-  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="tm"  />
 </manifest>
