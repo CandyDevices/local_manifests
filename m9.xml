@@ -5,5 +5,5 @@
   <project name="Hima-Dev/android_device_htc_hima-common" path="device/htc/hima-common" remote="github" revision="cm-12.1" />
   <project name="Hima-Dev/android_device_htc_m9-common" path="device/htc/m9-common" remote="github" revision="cm-12.1" />
   <project name="candy51/vendor_htc_m9-common" path="vendor/htc/m9-common" remote="github" revision="c5.1" />
-  <project name="candy51/device_htc_m9gsm" path="device/htc/m9gsm" remote="github" revision="c5.1" />
+  <project name="candy51/device_htc_himaul" path="device/htc/himaul" remote="github" revision="c5.1" />
 </manifest>
