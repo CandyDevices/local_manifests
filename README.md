@@ -1,3 +1,5 @@
-rc420head_local_manifest
+official_local_manifest
 ========================
-prebuilts/misc/linux-x86/ccache/ccache -M 150G
+add the repo to make your device buildable
+if you dont add your device it will not get official ota build
+if your device fails it will not be fixed by us, this is the device maintainers responsibility
