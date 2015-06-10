@@ -7,5 +7,9 @@
   <project name="proprietary_vendor_broadcom" path="vendor/broadcom" remote="tm"  />
   <project name="proprietary_vendor_widevine" path="vendor/widevine" remote="tm"  />
   <project name="proprietary_vendor_invensense" path="vendor/invensense" remote="tm"  />
-  <project name="proprietary_vendor_nvidia" path="vendor/nvidia" remote="tm"  />
+  <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm"  />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="tm"  />
+  <project name="proprietary_vendor_oppo" path="vendor/oppo" remote="tm"  />
+  <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
+  <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm"  />
 </manifest>
