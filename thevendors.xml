@@ -13,4 +13,5 @@
   <project name="proprietary_vendor_oppo" path="vendor/oppo" remote="tm"  />
   <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
   <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm"  />
+  <project name="proprietary_vendor_sony" path="vendor/sony" remote="tm"  />
 </manifest>
