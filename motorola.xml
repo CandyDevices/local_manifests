@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Shamu -->
+    <project name="CandyDevices/device_moto_shamu" path="device/moto/shamu" remote="github" revision="c5.1"/>
+    <project name="CyanogenMod/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="cm-12.1"/>
+</manifest>
