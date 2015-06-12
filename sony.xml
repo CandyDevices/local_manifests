@@ -20,7 +20,7 @@
 <!--Kernels-->
 <project path="kernel/sony/msm8930" name="Sohamlad7/android_kernel_sony_msm8930" remote="github" revision="cm-12.1" />
 <project path="kernel/sony/apq8064" name="EvoMix/kernel_apq8064" remote="github" revision="EvoMix" />
-<project path="kernel/sony/msm8974" name="CandyDevices/kernel_sony_8974-m5" remote="github" revision="m5kernel" />
+<project path="kernel/sony/msm8974" name="CandyDevices/kernel_sony_msm8974" remote="github" revision="m5kernel" />
 
 <!--Sony sensors-->
 <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-12.1" />
