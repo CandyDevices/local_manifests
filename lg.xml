@@ -6,12 +6,9 @@
   <project name="device_lge_d850" path="device/lge/d850" remote="cd" revision="c5.1" />
   <project name="device_lge_ls990" path="device/lge/ls990" remote="cd" revision="c5.1" />
   <project name="device_lge_d855" path="device/lge/d855" remote="cd" revision="c5.1" />
-  <project name="device_lge_mako" path="device/lge/mako" remote="cd" revision="c5.1" />
-  <project name="device_lge_hammerhead" path="device/lge/hammerhead" remote="cd" revision="c5.1" />
+  
 <!--common -->
   <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c5.1" />
 <!--lg kernels -->  
   <project name="kernel_lge_g3" path="kernel/lge/g3" remote="cd" revision="c5.1" />
-  <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.1" />
-  <project name="kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="cd" revision="c5.1" />
 </manifest>

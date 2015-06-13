@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!-- htc devices -->
+<!-- m8 -->
   <project name="device_htc_m8" path="device/htc/m8" remote="cd" revision="c5.1-z" />
   <project name="kernel_htc_msm8974" path="kernel/htc/msm8974" remote="cd" revision="c5.1-z" />
 </manifest>
