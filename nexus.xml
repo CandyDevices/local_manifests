@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<!-- common -->
-	  <!-- flo/mako -->
-	<project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.1" />
+    <!-- common -->
+    <!-- flo/mako -->
+    <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.1" />
 	
-    <!-- Shamu -->
+    <!-- shamu -->
     <project name="CandyDevices/device_moto_shamu" path="device/moto/shamu" remote="github" revision="c5.1"/>
     <project name="CyanogenMod/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="cm-12.1"/>
     
@@ -15,10 +15,10 @@
     <project name="device_lge_hammerhead" path="device/lge/hammerhead" remote="cd" revision="c5.1" />
     <project name="kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="cd" revision="c5.1" />
     
-    <!-- Flo -->
+    <!-- flo -->
     <project name="CandyDevices/android_device_asus_flo" path="device/asus/flo" remote="github" revision="c5.1"/>
     
-    <!-- Grouper --> 
+    <!-- grouper --> 
     <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5.1" />
     <project name="showp1984/bricked-grouper-3.x" path="kernel/asus/grouper" remote="github" revision="master" />
     
