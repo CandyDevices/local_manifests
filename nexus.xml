@@ -22,4 +22,8 @@
     <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5.1" />
     <project name="showp1984/bricked-grouper-3.x" path="kernel/asus/grouper" remote="github" revision="master" />
     
+    <!-- flounder -->
+  <project name="device_htc_flounder" path="device/htc/flounder" remote="cd" revision="c5.1" />
+  <project name="kernel_htc_flounder" path="kernel/htc/flounder" remote="cd" revision="c5.1" />
+    
 </manifest>
