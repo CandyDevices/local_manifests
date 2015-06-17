@@ -5,7 +5,6 @@
   
 <!--common -->
   <project name="device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="cd" revision="c5.1" />
-  <project name="device_qcom_common" path="device/qcom/common" remote="cd" revision="c5.1" />
   
 <!--motorola kernels -->  
   <project name="kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="cd" revision="c5.1" />
