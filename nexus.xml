@@ -20,7 +20,7 @@
     
     <!-- grouper --> 
     <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5.1" />
-    <project name="kernel/asus/grouper" path="kernel/asus/grouper" remote="cd" revision="c5.1" />
+    <project name="kernel_asus_grouper" path="kernel/asus/grouper" remote="cd" revision="c5.1" />
     
     <!-- flounder -->
   <project name="device_htc_flounder" path="device/htc/flounder" remote="cd" revision="c5.1" />
