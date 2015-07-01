@@ -3,5 +3,4 @@
 <!-- armani Specific -->
 <project path="kernel/xiaomi/armani" name="armani-dev/android_kernel_xiaomi_armani" remote="github" revision="cm-12.1" />
 <project path="device/xiaomi/armani" name="sud-vastav/device_xiaomi_armani" remote="github" revision="candy5.1" />
-<project path="vendor/xiaomi" name="armani-dev/proprietary_vendor_xiaomi" remote="github" revision="cm-12.1" />
 </manifest>
