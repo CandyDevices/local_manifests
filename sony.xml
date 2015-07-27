@@ -6,7 +6,10 @@
 <project path="device/sony/pollux_windy" name="CandyDevices/device_sony_pollux_windy" remote="github" revision="c5.1" />
 <project path="device/sony/yuga" name="CandyDevices/device_sony_yuga" remote="github" revision="c5.1" />
 <project path="device/sony/odin" name="CandyDevices/device_sony_odin" remote="github" revision="c5.1" />
+<project path="device/sony/amami" name="CandyDevices/device_sony_amami" remote="github" revision="c5.1" />
 <project path="device/sony/honami" name="CandyDevices/device_sony_honami" remote="github" revision="c5.1" />
+<project path="device/sony/togari" name="CandyDevices/device_sony_togari" remote="github" revision="c5.1" />
+<project path="device/sony/togari_gpe" name="CandyDevices/device_sony_togari_gpe" remote="github" revision="c5.1" />
 <project path="device/sony/z3" name="CandyDevices/device_sony_z3" remote="github" revision="c5.1" />
 
 <!--Devices commons-->
