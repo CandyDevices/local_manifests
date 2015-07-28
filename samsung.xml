@@ -24,5 +24,6 @@
     <project name="CandyDevices/device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="c5.1" />
     <project name="CandyDevices/device_samsung_quincydcm" path="device/samsung/quincydcm" remote="github" revision="c5.1" />
     <project name="CandyDevices/device_samsung_quincytmo" path="device/samsung/quincytmo" remote="github" revision="c5.1" />
+    <!--SII Plus-->
+    <project name="CandyDevices/device_samsung_i9105p" path="device/samsung/i9105p" remote="github" revision="c5.1" />
 </manifest>
-
