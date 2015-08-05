@@ -9,7 +9,7 @@
   <project name="proprietary_vendor_invensense" path="vendor/invensense" remote="tm"  />
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm"  />
   <project name="proprietary_vendor_nvidia" path="vendor/nvidia" remote="tm"  />
-  <project name="EdinaDevs/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.1"  />
+  <project name="TheMuppers/vendor_samsung" path="vendor/samsung" remote="github" revision="c5.1"  />
   <project name="proprietary_vendor_oppo" path="vendor/oppo" remote="tm"  />
   <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm"  />
   <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm"  />
