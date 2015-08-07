@@ -13,7 +13,7 @@
 
 <!--common -->
   <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c5.1" />
-  <project name="CyanogenMod/android_device_lge_g2-common" path="device/lge/g2-common" remote="github" revision="cm-12.1" />
+  <project name="device_lge_g2-common" path="device/lge/g2-common" remote="cd" revision="c5.1" />
   <project name="CyanogenMod/android_device_lge_v4xx-common" path="device/lge/v4xx-common" remote="github" revision="cm-12.1" />
 
 <!--lg kernels -->  
