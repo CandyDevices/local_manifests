@@ -25,8 +25,16 @@
     <project name="CandyDevices/device_samsung_quincydcm" path="device/samsung/quincydcm" remote="github" revision="c5.1" />
     <project name="CandyDevices/device_samsung_quincytmo" path="device/samsung/quincytmo" remote="github" revision="c5.1" />
     
-    <!--JFLTETMO T-Mobile Samsung Galaxy S4-->
+    <!--Qualcomm Samsung Galaxy S4-->
+    <project name="device_samsung_jflteatt" path="device/samsung/jflteatt" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltecan" path="device/samsung/jfltecan" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltecri" path="device/samsung/jfltecri" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltecsp" path="device/samsung/jfltecsp" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltespr" path="device/samsung/jfltespr" remote="cd" revision="c5.1" />
     <project name="device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jflteusc" path="device/samsung/jflteusc" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="cd" revision="c5.1" />
+    <project name="device_samsung_jfltexx" path="device/samsung/jfltexx" remote="cd" revision="c5.1" />
     <project name="device_samsung_jf-common" path="device/samsung/jf-common" remote="cd" revision="c5.1" />
     <project name="kernel_samsung_jf" path="kernel/samsung/jf" remote="cd" revision="c5.1" />
     
