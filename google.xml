@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <project name="CyanogenMod/android_device_google_sprout-common" path="device/google/sprout-common" remote="github" revision="cm-12.1" />
- <project name="Anik1199/android_kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="github" revision="candy" />
+ <project name="CandyDevices/kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="github" revision="c5.1" />
  <project name="CandyDevices/device_google_sprout4" path="device/google/sprout4" remote="github" revision="c5.1" />
  <project name="CyanogenMod/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-12.1" />
 </manifest>
