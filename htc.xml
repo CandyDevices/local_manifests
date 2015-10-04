@@ -19,4 +19,5 @@
   <project name="device_htc_m8-common" path="device/htc/m8-common" remote="cd" revision="c5.1" />
   <project name="device_htc_ville" path="device/htc/ville" remote="cd" revision="c5.1" />
   <project name="kernel_htc_msm8974" path="kernel/htc/msm8974" remote="cd" revision="c5.1" />
+  <project name="kernel_htc_msm8994" path="kernel/htc/msm8994" remote="cd" revision="c5.1" />
 </manifest>
