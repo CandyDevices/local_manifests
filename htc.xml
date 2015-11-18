@@ -4,12 +4,10 @@
   <project name="device_htc_himawl" path="device/htc/himawl" remote="cd" />
   <project name="device_htc_himawhl" path="device/htc/himawhl" remote="cd" />
   <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
+  <project name="device_htc_m8" path="device/htc/m8" remote="cd" />
   <project name="kernel_htc_msm8994" path="kernel/htc/msm8994" remote="cd" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" />
   <project name="cyanogenmod/android_external_stlport" path="external/stlport" remote="github" />
-  <project name="themuppers/vendor_htc" path="vendor/htc" remote="github" revision="c6" />
-  <project name="device_htc_m8" path="device/htc/m8" remote="cd" />
   <project name="CyanogenMod/android_device_htc_m8-common" path="device/htc/m8-common" remote="github" />
   <project name="CyanogenMod/android_device_htc_msm8974-common" path="device/htc/msm8974-common" remote="github" />
   <project name="CyanogenMod/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" />
