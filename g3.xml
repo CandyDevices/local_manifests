@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" />
+  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" />
+  <project name="sonyxperiadev/timekeep" path="hardware/sony/timekeep" revision="master" />
+  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
+  <project name="cuzz1369/frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="c6" />
+
+  <project name="CyanogenMod/hudson" path="hudson" revision="master" />
+
+  <!-- vendor repos -->
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" />
+
+  <!-- common -->
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common"  />
+
+  <!-- g3 -->
+  <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c6" />
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" />
+  <project name="device_lge_vs985" path="device/lge/vs985" remote="cd" revision="c6" />
+  <project name="device_lge_d850" path="device/lge/d850" remote="cd" revision="c6" />
+  <project name="device_lge_d851" path="device/lge/d851" remote="cd" revision="c6" />
+  <project name="device_lge_d852" path="device/lge/d852" remote="cd" revision="c6" />
+  <project name="device_lge_d855" path="device/lge/d855" remote="cd" revision="c6" />
+  <project name="device_lge_ls990" path="device/lge/ls990" remote="cd" revision="c6" />
+</manifest>
