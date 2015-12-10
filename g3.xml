@@ -3,11 +3,6 @@
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" />
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" />
-  <project name="sonyxperiadev/timekeep" path="hardware/sony/timekeep" revision="master" />
-  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
-  <project name="cuzz1369/frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="c6" />
-
-  <project name="CyanogenMod/hudson" path="hudson" revision="master" />
 
   <!-- vendor repos -->
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" />
