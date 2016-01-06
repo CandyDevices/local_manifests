@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-	<project name="device_asus_grouper" path="device/asus/grouper" remote="cd" />
-	<project name="VRToxin-Devices/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="M" />
-</manifest>
