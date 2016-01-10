@@ -16,5 +16,7 @@
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-13.0" />
   <project name="device_htc_m7-common" path="device/htc/m7-common" remote="cd" revision="c6s" />
   <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="cm-13.0" />
-
+  <project name="cyanogenmod/android_external_libnetfilter_conntrack" path="external/libnetfilter_conntrack" remote="github" revision="cm-13.0"/>
+  <project name="cyanogenmod/android_external_libnfnetlink" path="external/libnfnetlink" remote="github" revision="cm-13.0"/>
+  <project name="CyanogenMod/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-13.0" />
 </manifest>
