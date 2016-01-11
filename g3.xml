@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
-  <project name="CyanogenMod/android_external_stlport" path="external/stlport" />
-  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" />
-
-  <!-- vendor repos -->
-  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" />
-
-  <!-- common -->
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common"  />
-
-  <!-- g3 -->
-  <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c6" />
-  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" />
-  <project name="device_lge_vs985" path="device/lge/vs985" remote="cd" revision="c6" />
+  <!-- Vendor repo -->
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-13.0" />
+  
+  <!-- CM repos -->
+  <project name="android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="cm" revision="cm-13.0" />
+  <project name="android_packages_apps_Snap" path="packages/apps/Snap" remote="cm" revision="cm-13.0" />
+  
+  <!-- Device tree repos -->
   <project name="device_lge_d850" path="device/lge/d850" remote="cd" revision="c6" />
   <project name="device_lge_d851" path="device/lge/d851" remote="cd" revision="c6" />
   <project name="device_lge_d852" path="device/lge/d852" remote="cd" revision="c6" />
   <project name="device_lge_d855" path="device/lge/d855" remote="cd" revision="c6" />
   <project name="device_lge_ls990" path="device/lge/ls990" remote="cd" revision="c6" />
+  <project name="device_lge_vs985" path="device/lge/vs985" remote="cd" revision="c6" />
+  <project name="device_lge_g3-common" path="device/lge/g3-common" remote="cd" revision="c6" />
+  
+  <!-- Kernel repo -->
+  <project name="kernel_lge_g3" path="kernel/lge/g3" remote="cd" revision="c6" />
+
 </manifest>
