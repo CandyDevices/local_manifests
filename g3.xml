@@ -1,6 +1,6 @@
 <manifest>
   <!-- Vendor repo -->
-  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-13.0" />
+  <project name="proprietary_vendor_lge" path="vendor/lge" remote="cd" revision="c6" />
   
   <!-- CM repos -->
   <project name="android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="cm" revision="cm-13.0" />
