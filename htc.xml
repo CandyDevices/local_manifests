@@ -3,7 +3,7 @@
   <project name="device_htc_himaul" path="device/htc/himaul" remote="cd" />
   <project name="device_htc_himawl" path="device/htc/himawl" remote="cd" />
   <project name="device_htc_himawhl" path="device/htc/himawhl" remote="cd" />
-  <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" revision="c6rb" />
+  <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
   <project name="device_htc_m8" path="device/htc/m8" remote="cd" />
   <project name="cyanogenmod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
   <project name="cyanogenmod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
