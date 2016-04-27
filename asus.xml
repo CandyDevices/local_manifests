@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" />
+  <project name="roguesyko/the-reaper" path="kernel/asus/grouper" remote="github" revision="m6.0.1" />
+</manifest>
