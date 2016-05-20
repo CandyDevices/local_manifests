@@ -11,4 +11,10 @@
   <project name="device_htc_msm8974-common" path="device/htc/msm8974-common" remote="cd" />
   <project name="CyanogenMod/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-13.0-20160222" />
+  
+  <!-- m10/pme -->
+  <project name="device_htc_pme" path="device/htc/pme" remote="cd" />
+  <project name="sultanqasim/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="cm-13.0" />
+  
+  
 </manifest>
