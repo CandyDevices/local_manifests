@@ -9,4 +9,5 @@
   <project name="Grouper-AOSP/proprietary_vendor_nxp" path="vendor/nxp" remote="github" revision="aosp-6.0" />
   <project name="Grouper-AOSP/proprietary_vendor_widevine" path="vendor/widevine" remote="github" revision="aosp-6.0" />
   <project name="sultanqasim/android_vendor_htc_pme" path="vendor/htc/pme" remote="github" revision="cm-13.0" />
+  <project name="themuppets/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="cm-13.0" />
 </manifest>
