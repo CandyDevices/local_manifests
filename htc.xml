@@ -10,7 +10,7 @@
   <project name="device_htc_himawl" path="device/htc/himawl" remote="cd" />
   <project name="device_htc_himawhl" path="device/htc/himawhl" remote="cd" />
   <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
-  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-13.0" /> 
+  <project name="slimroms/kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="mm6.0" /> 
   <!-- m10/pme -->
   <project name="device_htc_pme" path="device/htc/pme" remote="cd" />
   <project name="sultanqasim/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="cm-13.0" /> 
