@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- m9/hima -->
+  <project name="device_htc_himaul" path="device/htc/himaul" remote="cd" />
+  <project name="device_htc_himawl" path="device/htc/himawl" remote="cd" />
+  <project name="device_htc_himawhl" path="device/htc/himawhl" remote="cd" />
+  <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
+  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-13.0-20160222" /> 
+</manifest>
