@@ -5,7 +5,7 @@
   <project name="device_htc_m7vzw" path="device/htc/m7vzw" remote="cd" />
   <project name="device_htc_m7spr" path="device/htc/m7spr" remote="cd" />
   <project name="device_htc_m7-common" path="device/htc/m7-common" remote="cd" />
-  <project name="device_htc_msm8960-common" path="device/htc/8960-common" remote="cd" />
+  <project name="device_htc_msm8960-common" path="device/htc/msm8960-common" remote="cd" />
   <project name="kernel_htc_msm8960" path="kernel/htc/msm8960" remote="cd" /> 
   <!-- m8 -->
   <project name="device_htc_m8" path="device/htc/m8" remote="cd" />
