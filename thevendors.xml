@@ -2,6 +2,5 @@
 <manifest>
   <project name="themuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-13.0" />
   <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
-  <project name="jamieg71/android_vendor_htc_pme" path="vendor/htc/pme" remote="github" revision="cm-13.0" />
   <project name="themuppets/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="cm-13.0" />
 </manifest>
