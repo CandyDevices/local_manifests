@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <!-- g4 -->     
-  <project name="device_lge_h811" path="device/lge/h811" remote="cd" />
-  <project name="device_lge_h815" path="device/lge/h815" remote="cd" />
-  <project name="device_lge_g4-common" path="device/lge/g4-common" remote="cd" />
-  <project name="kernel_lge_msm8992" path="kernel/lge/msm8992" remote="cd" />
-</manifest>
