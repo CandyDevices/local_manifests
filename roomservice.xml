@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="SlimRoms/device_htc_himaul" path="device/htc/himaul" remote="github" revision="ng7.0" />
-  <project name="SlimRoms/device_htc_hima-common" path="device/htc/hima-common" remote="github" revision="ng7.0" />
-  <project name="SlimRoms/kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="ng7.0" />
+  <project name="device_htc_himaul" path="device/htc/himaul" remote="cd" />
+  <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
+  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-13.0" />
   <!-- common -->
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-13.0" />
