@@ -2,26 +2,26 @@
 <manifest>
   <project name="device_htc_himaul" path="device/htc/himaul" remote="cd" />
   <project name="device_htc_hima-common" path="device/htc/hima-common" remote="cd" />
-  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-14.0" />
+  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-14.1" />
   <!-- common -->
-  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.0" />
-  <project name="CyanogenMod/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.0" />
-  <project name="cyanogenmod/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.0" />
-  <project name="cyanogenmod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.0" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.0" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.0" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.0" />
+  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
+  <project name="CyanogenMod/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
+  <project name="cyanogenmod/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="cyanogenmod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.1" />
   <!-- lg -->
   <!-- g4 -->
   <project name="device_lge_h811" path="device/lge/h811" remote="cd" />
-  <project name="device_lge_g4-common" path="device/lge/g4-common" remote="cd" />
-  <project name="cyanogenmod/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-14.0"  />
+  <project name="device_lge_g4-common" path="device/lge/g4-common" remote="cd" revision="c7.1" />
+  <project name="cyanogenmod/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-14.1"  />
   <!-- the vendors -->
-  <project name="themuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-14.0" />
-  <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.0" />
+  <project name="themuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-14.1" />
+  <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
   <!-- angler -->
-  <project name="AICP/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="n7.0" />
+  <project name="AICP/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="n7.1" />
   <project name="device_huawei_angler" path="device/huawei/angler" remote="cd" />
-  <project name="AICP/kernel_huawei_angler" path="kernel/huawei/angler" remote="github" revision="n7.0"  />
+  <project name="AICP/kernel_huawei_angler" path="kernel/huawei/angler" remote="github" revision="n7.1"  />
 
 </manifest>
