@@ -19,6 +19,7 @@
   <!-- the vendors -->
   <project name="themuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-14.1" />
   <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
+  <project name="themuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="cm-14.1" />
   <!-- angler -->
   <project name="AICP/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="n7.1" />
   <project name="device_huawei_angler" path="device/huawei/angler" remote="cd" />
